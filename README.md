@@ -19,8 +19,10 @@
 ### Run the Program
 - Execute the program with: `python main.py`
 - It will try using your camera 
-- Here is a sample of what you can expect to see after training the agent: 
+- Here is a sample of what you can expect to see after training the agent:
+
 ![Output](output.gif)
+
 - Users can exit the program by pressing the 'q' key.
 - Deactivate the virtual environment: `deactivate`
 
